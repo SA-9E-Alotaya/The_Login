@@ -1,0 +1,41 @@
+
+body {
+	background-color: white;
+}
+
+#Header {
+	background-color: black;
+	border-radius: 3px;
+
+	color: white;
+	font-family: cursive;
+	font-size: 60px;
+	text-align: center;
+	text-shadow: 4px 4px gray;
+
+	position: absolute;
+	top: 0px;
+	left: 210px;
+
+	width: 1000px;
+}
+
+form {
+	text-align: center;
+	font-size: 25px;
+
+	position: absolute;
+	left: 550px;
+	top: 360px;
+}
+
+#Login {
+	font-size: 50px;
+	font-family: cursive;
+	color: black;
+	text-shadow: 3px 3px gray;
+
+	position: absolute;
+	top: 270px;
+	left: 640px;
+}
